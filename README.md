@@ -1,6 +1,6 @@
    <h3 align="center">Sitio web de GTA VI con GSAP</h3>
   
-   <div>
+   <div align="center">
     <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -61,8 +61,8 @@ Asegúrese de tener lo siguiente instalado en su máquina:
 **Clona el Repositorio**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_gta_vi_landing.git
-cd jsm_gta_vi_landing
+git clone git@github.com:CRISHFAS/GTA-VI-Sitio-Web-Clon.git
+cd GTA-VI-Sitio-Web-Clon
 ```
 
 **Instale las dependencias del proyecto**
